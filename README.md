@@ -1,2 +1,2 @@
 # Overview
-I gave some tips.
+I give some tips.
